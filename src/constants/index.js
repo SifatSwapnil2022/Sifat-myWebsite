@@ -99,7 +99,6 @@ export const projects = [
       "Optimized Railway Management System for scheduling and logistics operations.",
     href: "https://github.com/SifatSwapnil2022/Bangladesh-Railway-Management-System",
     image: "/public/assets/projects/sample2.png",
-    bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "Oracle APEX" },
       { id: 2, name: "Database" },
@@ -113,7 +112,7 @@ export const projects = [
       "Food delivery platform with improved user experience and operational efficiency.",
     href: "https://github.com/SifatSwapnil2022/FoodieBite-app-frontend",
     image: "/public/assets/projects/sample3.png",
-    bgImage: "/assets/backgrounds/map.jpg",
+
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Node.js" },
@@ -127,7 +126,7 @@ export const projects = [
       "A multi-vendor marketplace enabling multiple sellers to register, manage stores, and reach a global audience with modern UX and scalable architecture.",
     href: "https://github.com/SifatSwapnil2022/bazario-A-multi-tenant-Ecommerce-Platform",
     image: "/public/assets/projects/sample4.png",
-    bgImage: "/assets/backgrounds/poster.jpg",
+
     frameworks: [
       { id: 1, name: "Next.js" },
       { id: 2, name: "React" },
